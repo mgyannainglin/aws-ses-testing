@@ -1,1 +1,1 @@
-AWS Simple Email service with svc endpiont.
+## AWS Simple Email service with svc endpiont.
